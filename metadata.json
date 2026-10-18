@@ -1,0 +1,6 @@
+{
+  "name": "BusinessBuddy",
+  "description": "AI-powered universal business management platform for small businesses, retail, freelancers, and service providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
